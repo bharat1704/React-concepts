@@ -29,7 +29,7 @@ function ToggleBulb({setBulbValue, bulbOn}){
   }
 
   return <div>
-    <button onClick={handler}> Toggle the Bulb</button>
+    <button> Toggle the Bulb</button>
     
   
     
